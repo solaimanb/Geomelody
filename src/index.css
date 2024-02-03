@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  place-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #111;
+}
+
+/* MAP-FUNC */
+#AF:hover{
+  fill: rgb(58, 238, 58);
+}
