@@ -1,3 +1,5 @@
+![Geomelody](https://github.com/soloman-err/Geomelody/blob/main/public/geomelody-map.png)
+
 # GeoMelody - Explore World Anthems
 
 GeoMelody is an engaging, open-source web application that combines geography and music, enabling users to click on any country on a world map to play its national anthem. It’s a unique platform that allows individuals of all ages to explore the diverse cultures and histories of countries worldwide through their anthems, making learning fun and interactive.
