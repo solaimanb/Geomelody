@@ -12,6 +12,16 @@ body {
   background-color: #111;
 }
 
+footer{
+  padding: 5px;
+  margin-top: auto;
+  text-align: center;
+  color: #369034;
+  background-color: #000;
+  opacity: 0.5;
+  font-weight: 600;
+}
+
 /* MAP-FUNC */
 #AF:hover{
   fill: rgb(58, 238, 58);
