@@ -36,3 +36,9 @@ Have questions or feedback? Reach out through GitHub or drop us an email.
 ---
 
 Start your melodic journey around the world with **GeoMelody**! 🌐🎵
+
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![GitHub stars](https://img.shields.io/github/stars/soloman-err/geomelody)
+![GitHub forks](https://img.shields.io/github/forks/soloman-err/geomelody)
+![GitHub issues](https://img.shields.io/github/issues/soloman-err/geomelody)
