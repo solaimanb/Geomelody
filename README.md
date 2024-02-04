@@ -35,4 +35,4 @@ Have questions or feedback? Reach out through GitHub or drop us an email.
 
 ---
 
-Embark on a musical journey around the globe with **GeoMelody**! 🌐🎵
+Start your melodic journey around the world with **GeoMelody**! 🌐🎵
