@@ -1,8 +1,8 @@
 ![Geomelody](https://github.com/soloman-err/Geomelody/blob/main/public/geomelody-map.png)
 
-# GeoMelody - Explore World Anthems
+# Geomelody - Explore World Anthems
 
-That's GeoMelody, a cool website that mixes geography and music. Just pick any country, and its national anthem starts playing. It's like a musical treasure hunt around the world, letting you explore different cultures and histories through their anthems. So, ditch boring textbooks and learn about the world in a fun, interactive way with GeoMelody!
+That's Geomelody, a cool website that mixes geography and music. Just pick any country, and its national anthem starts playing. It's like a musical treasure hunt around the world, letting you explore different cultures and histories through their anthems. So, ditch boring textbooks and learn about the world in a fun, interactive way with Geomelody!
 
 
 ## What Can You Do?
@@ -13,7 +13,7 @@ That's GeoMelody, a cool website that mixes geography and music. Just pick any c
 
 ## How to Get Started
 
-Simply visit our website - no need for downloads! GeoMelody is accessible to anyone with an internet connection and a web browser.
+Simply visit our website - no need for downloads! Geomelody is accessible to anyone with an internet connection and a web browser.
 
 ## Want to Contribute?
 
@@ -29,7 +29,7 @@ Check out our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ## Legal Jargon
 
-GeoMelody is licensed under the MIT License. For the nitty-gritty, see [LICENSE](LICENSE).
+Geomelody is licensed under the MIT License. For the nitty-gritty, see [LICENSE](LICENSE).
 
 ## Need to Reach Us?
 
@@ -37,7 +37,7 @@ Have questions or feedback? Reach out through GitHub or drop us an email.
 
 ---
 
-Start your melodic journey around the world with **GeoMelody**! 🌐🎵
+Start your melodic journey around the world with **Geomelody**! 🌐🎵
 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
