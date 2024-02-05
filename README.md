@@ -55,7 +55,3 @@ Start your melodic journey around the world with **Geomelody**! 🌐🎵
 ![GitHub stars](https://img.shields.io/github/stars/soloman-err/geomelody)
 ![GitHub forks](https://img.shields.io/github/forks/soloman-err/geomelody)
 ![GitHub issues](https://img.shields.io/github/issues/soloman-err/geomelody)
-
-```
-
-```
