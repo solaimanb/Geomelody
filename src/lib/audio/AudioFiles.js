@@ -7,6 +7,7 @@ const audioFiles = {
   IR: new Audio("/Iran.mp3"),
   IQ: new Audio("/Iraq.mp3"),
   IE: new Audio("/Ireland.mp3"),
+  JP: new Audio("/Japan.mp3"),
   // Add your country-code & audio-file path here
 };
 
