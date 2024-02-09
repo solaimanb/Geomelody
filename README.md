@@ -25,12 +25,15 @@ We love contributions! Whether you're a developer or curious to share your count
 3. **Create a New Branch**: Switch to your version of the repo and then create a new branch for your contribution by running `git checkout -b anthem/[country-name]`.
 
 4. **Add the Anthem**: Place the anthem file in the designated directory (please ensure it's a public domain or appropriately licensed file) and update any related metadata to include your country’s anthem in the project.
+    ```
+    Add your anthem.mp3 file in the 📁public folder.
+    ```
+    ![Add Audio/mp3](https://github.com/soloman-err/Geomelody/blob/main/public/geomelody-public-mp3.png)
 
-   - Add your anthem.mp3 file in the 📁public folder.
-     ![Add Audio/mp3](https://github.com/soloman-err/Geomelody/blob/main/public/geomelody-public-mp3.png)
-
-   - Go to 📁lib > 📁audio folder then open 📄AudioFiles.js file and add your Country-Code & your Country's audio file-path.
-     ![Add your country-code & audio file-path](https://github.com/soloman-err/Geomelody/blob/main/public/geomelody-country-path.png)
+    ```
+    Go to 📁lib > 📁audio folder then open 📄AudioFiles.js file and add your Country-Code & your Country's audio file-path.
+    ```
+    ![Add your country-code & audio file-path](https://github.com/soloman-err/Geomelody/blob/main/public/geomelody-country-path.png)
 
 5. **Commit Your Changes**: Save your contribution with a meaningful message. You can do this by running `git add .` to stage your changes, followed by `git commit -m 'Add [Country Name] Anthem'` to commit them.
 
