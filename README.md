@@ -6,9 +6,9 @@ That's Geomelody, a cool website that mixes geography and music. Just pick any c
 
 ## What Can You Do?
 
-- **Explore the World:** Navigate an interactive world map.
-- **Listen to Anthems:** Click on countries to hear their national anthems.
-- **Learn and Enjoy:** Perfect for learning about different cultures.
+- **World Exploration:** Traverse an interactive global map.
+- **Anthem Discovery:** Select any country to play its national anthem.
+- **Cultural Enrichment:** A unique way to learn and appreciate diverse cultures.
 
 ## How to Get Started
 
