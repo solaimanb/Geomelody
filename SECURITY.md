@@ -2,20 +2,20 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+This project follows a regular security update schedule. The following versions are currently supported with security updates:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 2.0.x   | :white_check_mark: |
+| 1.0.x   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+To report a vulnerability, please send an email to [security@geomelody.com](mailto:soloman.err@gmail.com). We strive to respond promptly to all vulnerability reports. Once a vulnerability is reported, you can expect:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+- Timely acknowledgment of your report.
+- Regular updates on the status of the vulnerability investigation.
+- Notification of fixes and patches once available.
+- Credit attribution if the vulnerability is accepted.
+
+We take all security reports seriously and appreciate your contributions to the safety and integrity of our project.
