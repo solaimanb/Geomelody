@@ -23,6 +23,6 @@ footer{
 }
 
 /* MAP-FUNC */
-#AF:hover{
+.country:hover{
   fill: rgb(58, 238, 58);
 }
