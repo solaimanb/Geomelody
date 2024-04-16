@@ -1,4 +1,4 @@
-![Geomelody](https://github.com/soloman-err/Geomelody/blob/main/public/geomelody-map.png)
+![Geomelody](https://github.com/solaimanb/Geomelody/blob/main/public/geomelody-map.png)
 
 # Geomelody - Explore World Anthems
 
